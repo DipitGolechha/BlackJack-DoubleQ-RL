@@ -5,7 +5,6 @@
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-3776AB.svg?logo=python&logoColor=white" />
   <img alt="Gymnasium" src="https://img.shields.io/badge/Gymnasium-Blackjack--v1-1f425f.svg" />
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg" />
 </p>
 
 ## 🔎 Overview
